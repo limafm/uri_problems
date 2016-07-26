@@ -1,0 +1,5 @@
+Problemas de Josephus
+-------------------------------
+- Temos uma lista circular e tiramos um elemento pulando X elementos até o último que ficar
+- Solução: 1030
+
